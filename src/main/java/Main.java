@@ -1,6 +1,7 @@
 // import static org.junit.jupiter.api.Assertions.assertEquals;
 import circulerqueue.CircularQueue;
 import circulerqueue.Normal_QueueArray;
+
 // import org.junit.jupiter.api.Test;
 
 
@@ -32,6 +33,7 @@ public class Main {
       System.out.println(cq.Cir_peek());
      cq.Cir_dequeue();
     }
+    
   }
   
 
